@@ -1,0 +1,11 @@
+A_patch.jpg: http://gvjerseys.com/data/nhl/images/WilsonRF.jpg
+
+C_patch.jpg: https://hockeyeastonline.com/images/20212022/umass-lowell/condotta3.jpg
+
+Hockey_East_35th.jpg: http://gvjerseys.com/data/nhl/images/HernbergHF.jpg
+
+Reverse_Kiss_Cut_example.jpg: https://docs.google.com/spreadsheets/d/1V8WyqJRz86K6MFgWEL3NhkUSLhy5WUeNr8Rjet5kEyU/edit#gid=1888684308
+
+Semi_Reverse_Kiss_Cut_example.jpg: https://docs.google.com/spreadsheets/d/1V8WyqJRz86K6MFgWEL3NhkUSLhy5WUeNr8Rjet5kEyU/edit#gid=1888684308
+
+UMass_Lowell.jpg: myself, personal photo
