@@ -1,0 +1,68 @@
+/* 
+	File: style.css
+	GUI Assignment: Creating Your First Web Page
+	Anson Lu, UMass Lowell Computer Science, Anson_Lu@student.uml.edu
+	Copyright (c) 2023 by Anson. All rights reserved. May be freely copied or
+	excerpted for educational purposes with credit to the author.
+	updated by AL on Sept 26, 2023
+*/
+
+.container {
+    /* assign container width of 100% */
+    width: 100%;
+    /* set maximum width */
+    max-width: 800px;
+    /* center-align the container */
+    margin: 0 auto;
+}
+
+/* image boxes */
+.image-box {
+    /* center-align the image within its box */
+    text-align: center;
+    /* add some spacing between images */
+    margin: 0 10px;
+}
+
+.image-container {
+    /* arrange elements side by side */
+    display: flex;
+    /* center-align items horizontally */
+    justify-content: center;
+    /* center-align items vertically */
+    align-items: flex-start;
+}
+
+/* images */
+img {
+    /* assign image width of 100% */
+    width: 100%;
+    /* set maximum width */
+    max-width: 1000px;
+    /* set maximum height */
+    max-height: 1000px;
+    /* maintain the aspect ratio of the images */
+    height: auto;
+    /* remove extra spacing around images */
+    display: block;
+    /* center-align the image horizontally */
+    margin: 0 auto;
+}
+
+/* figure captions */
+figcaption {
+    /* center-align the caption text */
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid; /* Add your desired border styles */
+}
+
+th, td {
+    border: 1px solid; /* Add your desired border styles */
+    padding: 8px;
+    text-align: left;
+}
